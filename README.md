@@ -1,4 +1,4 @@
-# I made a token. The ZEE token. It is ZEE token everyone is talking about. This faucet site provides tranfers and balances for users and authentication of the ZEE crypto token 
+# I made a token. The ZEE token. It is ZEE token everyone is talking about. This faucet site provides tranfers and balances for users and authentication of the ZEE crypto token. Get yours today by following the instructions and launch the site.
 
 # Check your Balance
 
