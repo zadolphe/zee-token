@@ -1,0 +1,5 @@
+service : {
+  balanceOf: (principal) -> (nat) query;
+  getSybmol: () -> (text) query;
+  payOut: () -> (text);
+}
