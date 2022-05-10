@@ -1,3 +1,5 @@
+# I made a token. The ZEE token. It is ZEE token everyone is talking about. This faucet site provides tranfers and balances for users and authentication of the ZEE crypto token 
+
 # Check your Balance
 
 1. Find out your principal id:
