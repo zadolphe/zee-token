@@ -1,4 +1,5 @@
-# I made a token. The ZEE token. It is ZEE token everyone is talking about. This faucet site provides transfers and balances for users and authentication of the ZEE crypto token. Get yours today by following the instructions and launch the site.
+# I made a token. The ZEE token. It is zee token everyone is talking about. This is mock website emulating a faucet where you can check your token balance in zee-tokens and transfer amounts to other accounts.This faucet site provides transfers and balances for users and authentication of the ZEE crypto token. Get yours today by following the instructions and launch the site.
+Use dfx start --clean then npm start and dfx deploy in separate terminals.
 
 # Check your Balance
 
